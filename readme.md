@@ -9,3 +9,5 @@ yarn add @chakra-ui/react @chakra-ui/core @emotion/react @emotion/styled framer-
 split html attributs
 
 padding in the chakra +/- 2rem \*4 caso necessite de pixels e divide por 4 caso queira em rem
+
+yarn add react-icons
